@@ -1,5 +1,9 @@
 # CSS_hackathon
 
+Link to FIGMA prototype:
+https://www.figma.com/file/LcmxodzUhbEGKGzOWW8zVl/RESERVOIR-FIGMA-2?node-id=0%3A1&t=N38ursNyfXUprTOu-0
+
+
 ##Sentiment Analyzer Chatbot
 
 This is a simple Flask application that implements a chatbot with sentiment analysis capabilities. The chatbot uses the Azure Cognitive Services Text Analytics API to analyze the sentiment of user input, and generates an appropriate response based on the sentiment score.
